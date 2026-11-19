@@ -28,7 +28,7 @@ public class BasicCalculator {
                 break;
             case '/':
                 if (num2 == 0) {
-                    System.out.println("Error: Division by zero is not allowed.");
+                    System.out.println("Error: Division by zero is not allowed");
                     valid = false;
                 } else {
                     result = num1 / num2;
