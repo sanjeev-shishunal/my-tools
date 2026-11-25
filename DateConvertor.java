@@ -8,7 +8,7 @@ public class DateConverting {
         // 1. Convert String to LocalDate (Date only)
         String dateStr = "2026-11-19";
         LocalDate localDate = LocalDate.parse(dateStr);
-        System.out.println("String to LocalDate : " + localDate);
+        System.out.println("String to LocalDate ! : " + localDate);
 
         // 2. Convert String to LocalDateTime using a custom format
         String dateTimeStr = "19-11-2026 16:21";
