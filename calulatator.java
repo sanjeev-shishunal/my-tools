@@ -4,7 +4,7 @@ public class BasicCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter the first number ! :");
+        System.out.println("Enter the first number ! this change form fix1 :");
         double num1 = sc.nextDouble();
 
         System.out.println("Enter an operator (+, -, *, /):");
